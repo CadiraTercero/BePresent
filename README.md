@@ -2,6 +2,8 @@
 
 A Progressive Web App that helps you find the perfect gift for your loved ones through a guided questionnaire.
 
+> 📋 **Spec-Driven Development:** This project follows comprehensive specifications. See [docs/](./docs/) for detailed requirements, user stories, API reference, and test plans.
+
 ## Features
 
 - **Dynamic Multi-Step Form**: Answer questions about the recipient (relationship, age, interests, budget, occasion)
@@ -141,6 +143,25 @@ The app uses a purple gradient theme. To change colors, update the gradient valu
 - Manifest file for installation on devices
 - Automatic updates when new versions are deployed
 - Works as a standalone app when installed
+
+## 📚 Documentation
+
+Comprehensive specifications following spec-driven development:
+
+- **[SPECIFICATIONS.md](./docs/SPECIFICATIONS.md)** - Complete functional and non-functional requirements
+- **[USER_STORIES.md](./docs/USER_STORIES.md)** - User stories with acceptance criteria
+- **[API_REFERENCE.md](./docs/API_REFERENCE.md)** - Internal API and data structures
+- **[TEST_PLAN.md](./docs/TEST_PLAN.md)** - Testing strategy and test cases
+- **[docs/README.md](./docs/README.md)** - Documentation overview and navigation
+
+## Contributing
+
+This project follows spec-driven development. Before contributing:
+
+1. Review the relevant specifications in [docs/](./docs/)
+2. Check existing [user stories](./docs/USER_STORIES.md) and acceptance criteria
+3. Write tests following the [test plan](./docs/TEST_PLAN.md)
+4. Ensure changes meet all requirements in [specifications](./docs/SPECIFICATIONS.md)
 
 ## License
 
